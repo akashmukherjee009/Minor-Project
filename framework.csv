@@ -1,0 +1,306 @@
+Web_Based_Framework,Company,Location,Min_Work_Exp,Javascript,Python,OOP,C_programming,Front_end,DB,Eligibilty,Max_Salary
+React.js,IBM,Bangalore,1,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,Graduate,"17,50,000"
+React.js,IBM,Ahmedabad,2,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,Graduate,"10,00,000"
+React.js,IBM,Bangalore,3,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,Graduate,"17,50,000"
+React.js,IBM,Ahmedabad,2,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,Graduate,"17,00,000"
+React.js,IBM,Kochi,2,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,Graduate,"14,90,000"
+React.js,IBM,Ahmedabad,8,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,PostGraduate,"28,00,000"
+React.js,IBM,Ahmedabad,10,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,Graduate,"14,90,000"
+React.js,Accenture,Bangalore,4,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Graduate,"13,00,000"
+React.js,Accenture,Noida,4,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,Graduate,"13,00,000"
+React.js,Accenture,Chennai,4,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,Graduate,"13,00,000"
+React.js,Accenture,Pune,6,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,Graduate,"13,00,000"
+React.js,Accenture,Bangalore,4,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,PostGraduate,"13,00,000"
+React.js,Accenture,Chennai,4,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,Graduate,"13,00,000"
+React.js,Accenture,Hyderabad,4,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,Graduate,"13,00,000"
+React.js,Accenture,Gurugram,2,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Graduate,"12,00,000"
+React.js,Dell,Pune,5,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,Any,
+React.js,Dell,Bangalore,6,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,Any,
+React.js,Dell,Pune,5,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,Any,
+React.js,Dell,Bangalore,8,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,Any,
+React.js,Dell,Bangalore,8,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,Any,
+React.js,Dell,Bangalore,8,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,Any,
+React.js,Dell,Bangalore,3,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,Any,
+React.js,Capgemini,Kolkata,11,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,Graduate,"37,50,000"
+React.js,Capgemini,Mumbai,4,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,Graduate,
+React.js,Capgemini,Bangalore,4,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,Graduate,
+React.js,Capgemini,Hyderabad,4,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,Graduate,
+React.js,Capgemini,India,4,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,Graduate,"18,00,000"
+React.js,Capgemini,Hyderabad,4,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,Graduate,
+React.js,Capgemini,Bangalore,6,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,Graduate,
+React.js,TCS,Chennai,4,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,Graduate,"15,00,000"
+jQuery,IBM,Bangalore,4,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,Graduate,"9,50,000"
+jQuery,IBM,Ahmedabad,2,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,Graduate,"17,00,000"
+jQuery,IBM,Mumbai,10,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,Graduate,"18,70,000"
+jQuery,IBM,Hyderabad,5,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,Any,"14,00,000"
+jQuery,IBM,Mumbai,2,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,Graduate,"20,00,000"
+jQuery,IBM,Bangalore,12,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,Graduate,"14,00,000"
+jQuery,IBM,Bangalore,0,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,Graduate,"7,00,000"
+jQuery,IBM,Bangalore,3,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,Graduate,"19,00,000"
+jQuery,Accenture,Hyderabad,0,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,Graduate,
+jQuery,Accenture,Gurgaon,0,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Graduate,
+jQuery,Accenture,Gurgaon,4,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,Graduate,"13,00,000"
+jQuery,Accenture,Hyderabad,4,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,Graduate,"13,00,000"
+jQuery,Accenture,Bangalore,6,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,Graduate,"13,00,000"
+jQuery,Accenture,Pune,6,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,Graduate,"13,00,000"
+jQuery,Accenture,Mumbai,8,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,Any,
+jQuery,Accenture,Mumbai,7,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,Graduate,
+jQuery,Capgemini,Bangalore,2,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Graduate,
+jQuery,Capgemini,Mumbai,2,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,Graduate,
+jQuery,Capgemini,Bangalore,4,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,Graduate,"9,60,000"
+jQuery,Capgemini,India,3,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,Graduate,"15,00,000"
+jQuery,Capgemini,Bangalore,6,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,Graduate,"20,00,000"
+jQuery,Capgemini,Bangalore,6,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,Graduate,
+jQuery,Capgemini,Bangalore,9,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,Graduate,"22,00,000"
+jQuery,Capgemini,Bangalore,6,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,Any,"8,40,000"
+jQuery,Dell,Pune,2,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,Any,
+jQuery,Dell,Pune,5,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,Any,
+jQuery,Dell,Bangalore,8,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,Any,
+jQuery,Dell,Bangalore,4,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,Any,"23,50,000"
+jQuery,Dell,Bangalore,5,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,Any,"23,50,000"
+jQuery,Dell,Bangalore,6,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,Any,"23,50,000"
+jQuery,Dell,Hyderabad,6,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,Any,
+jQuery,Dell,Bangalore,3,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,Any,
+Angular,IBM,Ahmedabad,0,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,Graduate,"17,50,000"
+Angular,IBM,Ahmedabad,2,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Graduate,"14,90,000"
+Angular,IBM,Kolkata,3,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,Graduate,"11,00,000"
+Angular,IBM,Kolkata,3,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,Graduate,"11,00,000"
+Angular,IBM,Kochi,3,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,Graduate,"14,90,000"
+Angular,IBM,Kolkata,4,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,Graduate,"12,40,000"
+Angular,IBM,Pune,5,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,Graduate,"12,00,000"
+Angular,IBM,Pune,4,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,Any,"12,40,000"
+Angular,Accenture,Hyderabad,0,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,Graduate,
+Angular,Accenture,Gurgaon,0,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Graduate,
+Angular,Accenture,Mumbai,4,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Graduate,"12,00,000"
+Angular,Accenture,Hyderabad,4,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,Graduate,"13,00,000"
+Angular,Accenture,Hyderabad,6,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,Graduate,"13,00,000"
+Angular,Accenture,Chennai,1,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,Graduate,
+Angular,Accenture,Hyderabad,8,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,Graduate,"23,00,000"
+Angular,Accenture,Pune,6,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,Graduate,"13,00,000"
+Angular,Capgemini,Kolkata,6,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,Graduate,"11,90,000"
+Angular,Capgemini,Hyderabad,4,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,Graduate,
+Angular,Capgemini,Chennai,4,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,Graduate,
+Angular,Capgemini,Mumbai,11,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,Graduate,"37,50,000"
+Angular,Capgemini,Pune,4,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,Graduate,"11,80,000"
+Angular,Capgemini,Bangalore,4,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,Graduate,
+Angular,Capgemini,Ahmedabad,0,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,Any,
+Angular,Capgemini,Ahmedabad,0,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,Any,
+Angular,Dell,Hyderabad,1,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,Any,
+Angular,Dell,Bangalore,0,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,Any,
+Angular,Dell,Bangalore,1,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,Any,
+Angular,Dell,Hyderabad,2,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,Any,
+Angular,Dell,Pune,3,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,Any,
+Angular,Dell,Bangalore,3,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,Any,
+Angular,Dell,Bangalore,3,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,Any,"15,40,000"
+Angular,Wipro,Chennai,5,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,Graduate,"10,10,000"
+Vue.js,IBM,Ahmedabad,10,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,Graduate,"14,90,000"
+Vue.js,IBM,Bangalore,1,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,Graduate,"17,50,000"
+Vue.js,IBM,Bangalore,3,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,Graduate,"17,00,000"
+Vue.js,IBM,Kochi,3,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,Graduate,"14,90,000"
+Vue.js,IBM,Kochi,5,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,Any,"17,00,000"
+Vue.js,IBM,Ahmedabad,5,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,Graduate,"17,00,000"
+Vue.js,IBM,Ahmedabad,10,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,Graduate,"14,90,000"
+Vue.js,IBM,Bangalore,8,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,Any,"34,00,000"
+Vue.js,Accenture,Hyderabad,4,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,Any,"13,00,000"
+Vue.js,Accenture,Bangalore,4,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,Graduate,"12,00,000"
+Vue.js,Accenture,Hyderabad,8,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,Graduate,"23,00,000"
+Vue.js,Accenture,Noida,4,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,Any,"12,00,000"
+Vue.js,Accenture,Bangalore,6,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,Graduate,"12,00,000"
+Vue.js,Accenture,Ahmedabad,2,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,Graduate,"11,80,000"
+Vue.js,Accenture,Ahmedabad,4,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,Graduate,"18,80,000"
+Vue.js,Accenture,Mumbai,6,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,Graduate,"23,00,000"
+Vue.js,Capgemini,Kolkata,6,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,Any,
+Vue.js,Capgemini,Bangalore,6,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,Any,"7,90,000"
+Vue.js,Dell,Bangalore,3,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,Any,
+Vue.js,Cognizant,Hyderabad,3,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,Any,"11,00,000"
+Vue.js,Tech Mahindra,Bangalore,2,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,Graduate,
+Vue.js,Tech Mahindra,Bangalore,4,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,Graduate,"9,50,000"
+Vue.js,Tech Mahindra,Mumbai,6,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,Any,"7,80,000"
+Vue.js,Infosys,Pune,5,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,Any,"6,50,000"
+Express.js,IBM,Bangalore,4,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,Any,"20,90,000"
+Express.js,IBM,Pune,4,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,Graduate,"20,90,000"
+Express.js,IBM,Bangalore,4,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,Graduate,"20,90,000"
+Express.js,Wipro,Chennai,5,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,Graduate,"15,00,000"
+Express.js,Wipro,Bangalore,5,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,Graduate,"15,00,000"
+Express.js,Wipro,Hyderabad,6,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,Graduate,"22,00,000"
+Express.js,Wipro,Pune,5,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,Graduate,
+Express.js,TCS,Kolkata,5,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,Graduate,"9,50,000"
+Express.js,Accenture,Mumbai,4,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,Graduate,"12,00,000"
+ASP.NET Core,TCS,Delhi,2,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,Graduate,"13,20,000"
+ASP.NET Core,TCS,India,3,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,Graduate,"8,80,000"
+ASP.NET Core,TCS,Chennai,4,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,Graduate,"8,80,000"
+ASP.NET Core,IBM,Kolkata,8,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,Graduate,"14,00,000"
+ASP.NET Core,IBM,Pune,8,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,Graduate,"14,00,000"
+ASP.NET Core,IBM,Mysore,8,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,Graduate,"14,00,000"
+ASP.NET Core,IBM,Bangalore,8,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,Graduate,"14,00,000"
+ASP.NET Core,Mindtree,Chennai,4,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,Graduate,"6,50,000"
+ASP.NET Core,Mindtree,Indore,2,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,Any,
+ASP.NET Core,Mindtree,Pune,3,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,Graduate,"7,40,000"
+ASP.NET Core,Mindtree,Bangalore,3,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,Graduate,"11,00,000"
+ASP.NET Core,Wipro,Gurgaon,3,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,Graduate,"8,00,000"
+ASP.NET Core,Wipro,Bangalore,5,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,Graduate,"22,00,000"
+ASP.NET Core,Cognizant,Kolkata,2,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,Graduate,"9,00,000"
+ASP.NET Core,Cognizant,Chennai,3,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,Graduate,"9,00,000"
+ASP.NET,Accenture,Hyderabad,4,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,Graduate,"4,20,000"
+ASP.NET,Accenture,Chennai,2,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE,Graduate,"12,00,000"
+ASP.NET,IBM,Ahmedabad,2,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,Graduate,"12,00,000"
+ASP.NET,IBM,Pune,8,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,Graduate,"14,00,000"
+ASP.NET,TCS,Indore,2,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,Graduate,"15,00,000"
+ASP.NET,TCS,Hyderabad,5,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,Any,"8,80,000"
+ASP.NET,TCS,Bhubaneswar,2,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,Graduate,"8,80,000"
+ASP.NET,Capgemini,Pune,4,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,Any,"20,00,000"
+ASP.NET,Capgemini,Kolkata,4,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,Graduate,"9,50,000"
+ASP.NET,Capgemini,Bangalore,2,FALSE,FALSE,TRUE,TRUE,FALSE,TRUE,Graduate,"9,50,000"
+ASP.NET,Capgemini,Ahmedabad,11,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,Graduate,"3,75,00,000"
+ASP.NET,Dell,Bangalore,7,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,Any,
+ASP.NET,Dell,Bangalore,1,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,Any,
+ASP.NET,Dell,Bangalore,0,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,Any,
+ASP.NET,Dell,Bangalore,2,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,Any,
+ASP.NET,Mindtree,Chennai,5,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,Graduate,
+ASP.NET,Mindtree,Bangalore,3,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,Graduate,"11,00,000"
+ASP.NET,Mindtree,Bangalore,6,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,Graduate,"7,00,000"
+ASP.NET,Mindtree,Bangalore,5,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,Graduate,
+ASP.NET,Infosys,Bangalore,1,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,Any,"7,70,000"
+ASP.NET,Infosys,Bangalore,5,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,Any,
+Django,Accenture,Hyderabad,4,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,Graduate,"12,00,000"
+Django,Accenture,Hyderabad,4,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,Graduate,"6,50,000"
+Django,Accenture,Gurgaon,6,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,Graduate,"12,00,000"
+Django,Capgemini,Bangalore,4,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,Any,
+Django,Accenture,Pune,6,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,Graduate,"12,00,000"
+Django,Accenture,Hyderabad,4,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,Any,"12,00,000"
+Django,Dell,Bangalore,8,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,Any,
+Django,Dell,Bangalore,8,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,Any,
+Django,Dell,Bangalore,8,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,Any,"33,50,000"
+Django,TCS,Chennai,5,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,Graduate,"8,00,000"
+Django,TCS,Ahmedabad,1,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,Graduate,"7,60,000"
+Django,TCS,Hyderabad,3,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,Graduate,"8,00,000"
+Django,Tech Mahindra,Pune,4,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,Any,"8,30,000"
+Django,Accenture,Bangalore,4,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,Graduate,"12,00,000"
+Django,TCS,Kolkata,5,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,Graduate,"8,00,000"
+Django,IBM,Ahmedabad,5,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,Graduate,"17,00,000"
+Django,Tech Mahindra,Bangalore,5,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,Any,
+Django,Tech Mahindra,Hyderabad,5,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,Graduate,"20,00,000"
+Django,TCS,Chennai,3,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,Graduate,
+Django,Maintec Technologies Pvt.Ltd ,Gurgaon,6,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,Any,"15,00,000"
+Django,CGI Group Inc.,Hyderabad,3,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,Graduate,
+Flask,Capgemini,Bangalore,4,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,Any,
+Flask,Dell,Pune,2,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,Any,"15,40,000"
+Flask,TCS,Delhi,1,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,Graduate,"7,60,000"
+Flask,Dell,Bangalore,1,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,Any,"12,00,000"
+Flask,Tech Mahindra,Bangalore,5,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,Any,
+Flask,Tech Mahindra,Hyderabad,5,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,Graduate,
+Flask,CGI Group Inc.,Hyderabad,2,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,Any,
+Flask,CGI Group Inc.,Bangalore,3,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,Graduate,
+Flask,CGI Group Inc.,Bangalore,3,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,Graduate,
+Flask,Express Infrastructure,Chennai,1,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,Any,
+Flask,Value Labs,Hyderabad,5,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,Any,"8,00,000"
+Flask,Value Labs,Hyderabad,6,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,Graduate,
+Flask,TCS,Kolkata,8,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,Graduate,
+Flask,Collabera,Pune,4,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,Graduation Not Required,"16,00,000"
+Flask,PwC,Hyderabad,8,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,Graduate,
+Flask,Genpact,Noida,4,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,Graduate,
+Flask,eClerx,Mumbai,5,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,Any,
+Flask,eClerx,Pune,5,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,Any,
+Flask,eClerx,Chandigarh,2,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,Any,
+Flask,Collabera,Gurgaon,5,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,Graduation Not Required,"19,00,000"
+Flask,Collabera,Pune,2,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,Graduate,
+Angular.js,Infosys,Pune,3,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,Any,"11,10,000"
+Angular.js,Infosys,Coimbatore,3,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,Any,"11,10,000"
+Angular.js,Infosys,Bhubaneswar,3,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,Any,"8,70,000"
+Angular.js,Infosys,Mysore,3,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,Any,
+Angular.js,Infosys,Hyderabad,8,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,Any,
+Angular.js,Infosys,Thiruvananthapuram,5,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,Any,"19,50,000"
+Angular.js,Infosys,Bangalore,5,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,Any,"8,50,000"
+Angular.js,Infosys,Nagpur,1,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,Any,"11,10,000"
+Angular.js,TCS,Kolkata,3,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,Any,
+Angular.js,Cognizant,Chennai,3,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,Graduate,"10,70,000"
+Angular.js,Tech Mahindra,Delhi,4,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,Graduate,"7,70,000"
+Angular.js,Accenture,Hyderabad,4,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,Graduate,
+Angular.js,IBM,Ahmedabad,2,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,Graduate,"14,90,000"
+Angular.js,Accenture,Mumbai,4,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,Any,"16,00,000"
+Angular.js,Cognizant,Ahmedabad,3,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,Graduate,"9,00,000"
+Angular.js,TCS,Indore,1,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,Graduate,"8,10,000"
+Angular.js,Cognizant,Chennai,3,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,Graduate,"11,00,000"
+Angular.js,Dell,Bangalore,8,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,Any,
+Angular.js,Dell,Bangalore,2,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,Any,"15,00,000"
+Angular.js,TCS,Lucknow,3,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,Graduate,
+Angular.js,TCS,Indore,1,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,Any,"15,00,000"
+Spring ,Cognizant,Bangalore,3,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,Graduate,
+Spring ,Cognizant,Chennai,4,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,Any,"9,00,000"
+Spring ,Dell,Bangalore,15,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE,Any,
+Spring ,Dell,Pune,3,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,Any,
+Spring ,Dell,Pune,5,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,Any,
+Spring ,Dell,Bangalore,5,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,Any,"23,00,000"
+Spring ,Dell,Bangalore,0,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,Any,
+Spring ,TCS,Chennai,5,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,Graduate,"6,80,000"
+Spring ,TCS,Pune,3,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,Any,"6,50,000"
+Spring ,TCS,Bangalore,4,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,Graduate,
+Spring ,TCS,Hyderabad,2,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,Graduate,
+Spring ,TCS,Chennai,6,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,Graduate,
+Spring ,Infosys,Coimatore,3,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,Any,
+Spring ,Tech Mahindra,Mumbai,9,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,Graduate,
+Spring ,Infosys,Coimatore,3,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,Any,
+Spring ,Accenture,Gurgaon,6,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,Graduate,
+Spring ,Maintec Technologies Pvt.Ltd ,Ahmedabad,6,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,Graduate,"5,00,000"
+Spring ,Maintec Technologies Pvt.Ltd ,Pune,5,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,Graduate,
+Spring ,Wells Fargo ,Bangalore,11,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,Any,
+Spring ,Wells Fargo ,Bangalore,7,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,Any,
+Spring ,Optum,Hyderabad,1,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,Any,
+Drupal,Accenture,Bangalore,8,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,Graduate,
+Drupal,Accenture,Mumbai,5,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,Graduate,
+Drupal,Accenture,Mumbai,3,TRUE,FALSE,FALSE,TRUE,TRUE,FALSE,Graduate,
+Drupal,Encora,Ahmedabad,5,TRUE,FALSE,FALSE,TRUE,TRUE,FALSE,Any,
+Drupal,Encora,Ahmedabad,5,TRUE,FALSE,FALSE,TRUE,TRUE,FALSE,Any,
+Drupal,Net Solutions,Chandigarh,7,TRUE,FALSE,FALSE,TRUE,TRUE,TRUE,Graduate,
+Drupal,IBM,Bangalore,12,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,Graduate,
+Drupal,IBM,Bangalore,6,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,Graduate,
+Drupal,IBM,Gurgaon,12,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,Graduate,
+Drupal,IBM,Bangalore,1,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,Graduate,
+Drupal,Net Solutions,Delhi,2,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,Graduate,
+Drupal,TCS,Kolkata,2,TRUE,FALSE,FALSE,TRUE,TRUE,TRUE,Graduate,"7,00,000"
+Drupal,TCS,Bangalore,4,TRUE,FALSE,FALSE,TRUE,TRUE,FALSE,Graduate,
+Drupal,Capgemini,Noida,6,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,Graduate,
+Laravel,Encora,Ahmedabad,5,TRUE,FALSE,FALSE,TRUE,TRUE,FALSE,Any,
+Laravel,Net Solutions,Chandigarh,7,TRUE,FALSE,FALSE,TRUE,TRUE,TRUE,Graduate,
+Laravel,Net Solutions,Amritsar,8,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,Graduate,
+Laravel,Net Solutions,Zirakpur,2,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,Graduate,
+Laravel,ValueLabs,Hyderabad,5,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,Graduate,
+Laravel,ValueLabs,Hyderabad,4,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,Graduate,
+Laravel,Mantra Labs,Gurgaon,1,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,Graduate,
+Laravel,Kotai Electronics Pvt. Ltd. ,Kolkata,1,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,Graduate,"3,50,000"
+Fast API,Bharati Airtel,Pune,3,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,Graduate,
+Fast API,Bharati Airtel,Pune,2,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,Graduate,
+Fast API,TCS,Chennai,2,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,Graduate,
+Fast API,Tech Mahindra,Gurgaon,4,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,Any,
+Fast API,Mastek,Bangalore,6,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,Any,"20,00,000"
+Symfony,Accenture,Hyderabad,4,TRUE,FALSE,FALSE,TRUE,TRUE,FALSE,Graduate,
+Symfony,IBM,Bangalore,12,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,Graduate,
+Svelte,CGI ,Bangalore,2,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,Graduate,
+Svelte,Mphasis,Bangalore,6,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,Any,
+Svelte,Mphasis,Bangalore,7,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,Any,
+Ruby on Rails,Tech Mahindra,Mumbai,4,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,Any,
+Gatsby,Intel,Bangalore,8,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,Graduate,
+Machine Learning,Accenture,Bangalore,1,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,Graduate,
+Machine Learning,IBM,Kolkata,5,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,Graduate,
+Machine Learning,Dell,Bangalore,3,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,Any,
+Machine Learning,Capgemini,Bangalore,4,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,Any,
+Machine Learning,Wipro,Pune,5,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,Graduate,
+Machine Learning,TCS,Kolkata,10,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,Any,"15,00,000"
+Machine Learning,Tech Mahindra,Hyderabad,5,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,Graduate,
+Machine Learning,Infosys,Bangalore,5,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,Any,
+Deep Learning,Intel,Bangalore,3,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,Graduate,
+Deep Learning,TCS,Delhi,5,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,Graduate,
+Deep Learning,TCS,Kolkata,4,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,Graduate,
+Deep Learning,TCS,Bangalore,8,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,Graduate,
+Deep Learning,IBM,Bangalore,1,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,Graduate,
+Deep Learning,Wipro,Mumbai,11,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,Graduate,
+Cybersecurity,Accenture,Bangalore,8,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,Any,
+Cybersecurity,Accenture,Bangalore,6,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,Graduate,
+Cybersecurity,IBM,Ahmedabad,2,TRUE,TRUE,FALSE,TRUE,FALSE,TRUE,Graduate,
+Cybersecurity,IBM,Bangalore,10,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,Graduate,
+Cybersecurity,Capgemini,Kolkata,6,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,Graduate,
+Cybersecurity,Capgemini,Pune,9,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,Graduate,
+Blockchain development,IBM,Bangalore,4,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,Any,
+Blockchain development,IBM,Bangalore,12,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,Graduate,
+Blockchain development,Capgemini,Gurgaon,10,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,Graduate,
+Blockchain development,Infosys,Bangalore,2,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,Any,

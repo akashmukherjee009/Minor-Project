@@ -1,0 +1,52 @@
+<html> 
+<head>
+<title>Log In</title> 
+	<link rel="stylesheet" href="style.css">
+	<script language="javascript">
+		function Validate(){
+	Message =""
+	Message=Message+Checkpassword()
+	if(Message==""){
+	return true
+	}
+	else{
+	alert(Message)
+	return false
+	}
+	}
+	function Checkpassword(){
+	password=document.f1.password.value
+	if(password==""){
+	Message="Password cannot be blank"+"\n"
+	}
+	else{
+	Message=""
+	}
+	return Message
+	}
+</script>
+</head>
+<body> 
+		
+		<form name="f1" onsubmit="return Validate()" enctype="text/plain"></form>
+
+		<div class="log-in-form">
+			
+			<img src="D:\xampp\htdocs\Granite System\Granite system\bckground\user-Icon.png">
+
+	<h3><b>Log In Now:</b></h3>
+
+				<h3><b>Email:</b>
+		<input type ="email" class="input-box" placeholder ="Enter email" name="email"></h3>
+		
+				<h3><b>Password:</b> 
+		<input type="password" class="input-box" placeholder ="Enter password" name="password"></h3>
+		
+				
+			<center><button type="submit">Log In</center>
+	
+	<h4 align ="center" style ="color:Black"><a href="forgot.html">Forgot Password ?</a></h4>
+</form> 
+</div> 
+</body>    
+</html>

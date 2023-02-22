@@ -1,0 +1,102 @@
+<html>                                   
+<head>
+	<title>Sign In</title>
+	<link rel="stylesheet" href="style.css">
+		<script language="javascript">
+	function Validate(){
+	Message =""
+	Message=Message+Checkusername()
+	if(Message==""){
+	return true
+	}
+	else{
+	alert(Message)
+	return false
+	}
+	}
+	function Checkusername(){
+	username=document.f1.username.value
+	if(username==""){
+	Message="Username cannot be blank"+"\n"
+	}
+	else{
+	Message=""
+	}
+	return Message
+	}
+</script>
+</head>
+<body>
+
+		<form name="f1" onsubmit="return Validate()" enctype="text/plain">
+
+		<div class="sign-in-form">
+
+			<img src="D:\xampp\htdocs\Granite System\Granite system\bckground\user-Icon.png">
+	<h3><b> Sign In Now: </b></h3>
+
+				<h3><b>Username:</b>
+		<input type ="text" class="input-box" placeholder ="Enter username" name= "username"></h3>
+
+				<h3><b>Email:</b>
+		<input type ="email" class="input-box" placeholder ="Enter email" name= "email"></h3>
+
+				<h3><b>Password:</b>
+		<input type ="password" class="input-box" placeholder ="Enter password" name= "password"></h3>
+
+				<hr>
+
+		<center><span><input type="checkbox"></span>I agree to the terms of services</center><br>
+
+			<center><button type="submit">Signin</button></center>
+			
+		<h4 align ="center">Already have an account?<a href ="login.html">Login here.</a></h4>
+	
+</form>
+</div>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	

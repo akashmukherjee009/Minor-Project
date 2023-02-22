@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Custom Checkbox Design using html and css | Pure CSS Custom Checkbox</title>
+    <style>
+        body{
+            margin: 0;
+            padding: 0;
+        }
+        .wrapper {
+            margin: 0;
+            height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            background-color: #262626;
+        }
+
+        input {
+            position: absolute;
+            left: -100vw;
+        }
+
+        label {
+            font-size: 1em;
+            text-indent: -100vw;
+            cursor: pointer;
+            background-color: grey;
+            position: relative;
+            border: solid 0.6em transparent;
+            width: 6em;
+            height: 2em;
+            border-radius: 4em;
+            box-shadow: inset 0 0 2em rgba(0, 0, 0, 0.5);
+        }
+        label::after {
+            position: absolute;
+            top: 0;
+            left: 0;
+            content: "off";
+            box-sizing: border-box;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 0.35em;
+            width: 2em;
+            height: 2em;
+            border-radius: 50%;
+            box-shadow: 0 0.4em 0.6em rgba(0, 0, 0, 0.6);
+            color: white;
+            font-family: Baloo;
+            text-indent: 0;
+            text-transform: uppercase;
+            transition: .3s;
+        }
+
+        input:checked + label{
+            background-color: deepskyblue;
+        }
+        input:checked + label:after {
+            transform: translate(4em);
+            color: #fff;
+            content: "on";
+        }
+
+
+
+
+
+
+    </style>
+</head>
+<body>
+    <div class="wrapper">
+        <input type="checkbox" id='switch'/>
+        <label for="switch">turned </label>
+    </div>
+</body>
+</html>

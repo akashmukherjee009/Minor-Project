@@ -1,0 +1,118 @@
+<html>                                   
+<head>
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+	<title>Registration Form </title>
+	<link rel="stylesheet" href="static/css/portfolio.css">
+</head>
+<body cz-shortcut-listen="true">
+    <div class="container">
+        <h3><b>Prediction Form</b></h3><br>
+        <form action="/predict" method="POST">
+
+            <div class="form">
+                <span class="title">Details :</span><br>
+                    <div class="fields">
+                            <div class="input-field">
+                                    <label>Location:</label>
+                                    <select name="location"><br>
+                                        <option value="0">Bangalore</option>
+                                        <option value="1">Ahmedabad</option>                                    
+                                        <option value="2">Kochi</option>
+                                        <option value="3">Noida</option>
+                                        <option value="4">Chennai</option>                                    
+                                        <option value="5">Pune</option>
+                                        <option value="6">Hyderabad</option>
+                                        <option value="7">Gurugram</option>                                    
+                                        <option value="8">Kolkata</option>
+                                        <option value="9">Mumbai</option>
+                                        <option value="10">Gurgaon</option>                                    
+                                        <option value="12">Delhi</option>
+                                        <option value="13">Mysore</option>
+                                        <option value="14">Indore</option>                                    
+                                        <option value="15">Chandigarh</option>
+                                        <option value="16">Coimbatore</option>
+                                        <option value="17">Bhubaneswar</option>                                    
+                                        <option value="18">Thiruvananthapuram</option>
+                                        <option value="19">Nagpur</option>
+                                        <option value="20">Lucknow</option>                                    
+                                        <option value="21">Coimatore</option>
+                                        <option value="22">Amritsar</option>
+                                        <option value="23">Zirakpur</option>                                    
+                                        <option value="24">India</option>
+                                        <option value="25">None of these</option>
+                                    </select>
+                            </div>
+                            <div class="input-field">
+                                <label>Min_Work_Exp:</label>
+                                <input type ="number" placeholder ="Enter your work Experience" name="Min_Work_Exp"><br>
+                            </div>
+                            <div class="input-field">
+                                    <label>Javascript:</label>
+                                    <select name="Javascript"><br>
+                                        <option value="0">YES</option>
+                                        <option value="1">NO</option>                                   
+                                    </select>
+                            </div>
+                            <div class="input-field">
+                                <label>Python:</label>
+                                <select name="Python"><br>
+                                        <option value="0">YES</option>
+                                        <option value="1">NO</option>               
+                                </select>
+                            </div>
+                            <div class="input-field">
+                                <label>OOP:</label>
+                                <select name="OOP"><br>
+                                        <option value="0">YES</option>
+                                        <option value="1">NO</option>                                    
+                                </select>
+                            </div>
+                            <div class="input-field">
+                                    <label>C_Programming:</label>
+                                    <select name="C_Programming"><br>
+                                        <option value="0">YES</option>
+                                        <option value="1">NO</option>                                    
+                                </select>
+                            </div>
+                            <div class="input-field">
+                                <label>Front End:</label>
+                                <select name="Front End"><br>
+                                        <option value="0">YES</option>
+                                        <option value="1">NO</option>                                   
+                                </select>
+                            </div>
+                            <div class="input-field">
+                                <label>DB:</label>
+                                <select name="DB"><br>
+                                        <option value="0">YES</option>
+                                        <option value="1">NO</option>                                    
+                                </select>
+                            </div>
+                            <div class="input-field">
+                                    <label>Eligibility criteria:</label>
+                                    <select name="Eligibility criteria"><br>
+                                        <option value="0">UG</option>
+                                        <option value="1">PG</option>
+                                        <option value="2">ANY</option>                                    
+                                </select>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="buttons">
+                        <button type="submit" class="Btn"><b>Submit</b></button>
+                        
+
+                    </div> 
+                    <div class="input-field" style="font-color: white;">
+                        <p class="predator">{{ prediction_text }}</p>
+                    </div>
+                    
+        </form>
+        
+
+    </div>
+
+
+</body>
+</html>

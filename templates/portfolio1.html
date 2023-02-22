@@ -1,0 +1,82 @@
+<html>                                   
+<head>
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+	<title>Registration Form </title>
+	<link rel="stylesheet" href="static/css/portfolio.css">
+</head>
+<body cz-shortcut-listen="true">
+    <div class="container">
+        <h3><b>Registration</b></h3><br>
+        <form action="/portfolio_submit" method="POST" enctype="multipart/form-data">
+            <div class="form first">
+                <div class="details personal">
+                    <span class="title">Personal Details :</span><br>
+                    <div class="fields">
+                        <div class="input-field">
+                            <label>Full Name:</label>
+                            <input type ="text" placeholder ="Enter your name" name="name"><br>
+                        </div>
+                        <div class="input-field">
+                            <label>Date of Birth:</label>
+                            <input type ="date" placeholder ="Enter your date of birth" name="dob"><br>
+                        </div>
+                        <div class="input-field">
+                            <label>Email:</label>
+                            <input type ="text" placeholder ="Enter your email" name="email"><br>
+                        </div>
+                        <div class="input-field">
+                            <label>Mobile Number:</label>
+                            <input type ="number" placeholder ="Enter mobile number" maxlength="10" name="mobno"><br>
+                        </div>
+                        <div class="input-field">
+                            <label>Gender:</label>
+                            <select name="gen"><br>
+                                <option value="male">Male</option>
+                                <option value="male">Female</option>                                    
+                                <option value="other">Other</option>
+                            </select>
+                        </div>
+                        <div class="input-field">
+                            <label>Occupation:</label>
+                            <select class="gen" name="occ"><br>
+                                <option value="student">Student</option>
+                                <option value="Worker">Worker</option>
+                                <option value="other">Other</option>
+                            </select>
+                        </div>
+                        <div class="input-field">
+                            <label>Hobbies:</label>
+                            <input type ="text" placeholder ="Write your hobbies" name="hobby"><br>
+                        </div>
+                        <div class="input-field">
+                            <label>Project Name:</label>
+                            <input type ="text" placeholder ="Enter your Projects name" name="pro_nam"><br>
+                        </div>
+                        <div class="input-field">
+                            <label>Company Namer:</label>
+                            <input type ="text" placeholder ="Enter your Company name" name="com_nam"><br>
+                         </div>
+                        <div class="input-field">
+                            <label>Nationality:</label>
+                            <input type ="text" placeholder ="Enter nationality" name="nation"><br>
+                        </div>
+                        <div class="input-field">
+                            <label>Image:</label>
+                            <input type ="file" name="img"><br>
+                        </div>
+                        <div class="input-field">
+                            <label>Permanent Address:</label>
+                            <input type ="text" placeholder ="Enter your address" name="address"><br>
+                        </div>                           
+                    </div>
+                </div>
+                <button class="nextBtn">Next</button>      
+            </div>                
+        </form>
+
+    </div>
+   <script src="#"></script>
+
+</body>
+</html>
+

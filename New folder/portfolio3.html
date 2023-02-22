@@ -1,0 +1,80 @@
+<html>                                   
+<head>
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+	<title>Registration Form </title>
+	<link rel="stylesheet" href="portfolio.css">
+</head>
+<body cz-shortcut-listen="true">
+    <div class="container">
+        <h3><b>Registration</b></h3><br>
+        <form action="#" class="secActive">
+            <div class="form third">
+                <div class="details education ">
+                    <span class="title">Educational Details :</span><br>
+                    <div class="fields">
+                        <div class="input-field">
+                                <label>Programming Skills:</label>
+            <input type ="text" placeholder ="Write about your Programming Skills" name="skills"><br>
+                        </div>
+                        <div class="input-field">
+                                <label>Frontend:</label>
+            <input type ="text" placeholder ="Write about your Frontend Skills" name="front"><br>
+                        </div>
+                        <div class="input-field">
+                                <label>Backend:</label>
+            <input type ="text" placeholder ="Write about your Backend Skills" name="back"><br>
+                        </div>
+                        <div class="input-field">
+                                <label>Subjects of Interest:</label>
+            <input type ="text" placeholder ="Write about your favourite subjects" name="interest"><br>
+                        </div>
+                        <div class="input-field">
+                                <label>Extra-Curricular Activities:</label>
+            <input type ="text" placeholder ="Write about your Activities" name="activity"><br>
+                        </div>
+                        <div class="input-field">
+                                <label>Project(Topic):</label>
+            <input type ="text" placeholder ="Topic" name="topic"><br>
+                        </div>
+                        <div class="input-field">
+                                <label> Career Objectives:</label>
+            <input type ="text" placeholder ="Objectives" name="obj"><br>
+                        </div>
+                        <div class="input-field">
+                                <label>Courses Undergone:</label>
+            <input type ="text" placeholder = "Courses" name="course"><br>
+                        </div>
+                        <div class="input-field">
+                                <label>Experienced:</label>
+            <input type ="text" placeholder = "Write about your Experience" name="experience"><br>
+                        </div>
+                    </div>
+                </div>
+
+                    <div class="buttons">
+                        <button class="backBtn">
+                            <i class ="uil uil-navigator"></i>
+                            <span class="btnText"><a href ="portfolio2.html">Back</a></span>
+                        </button>
+                    </div> 
+            </div>
+        </form>
+        <button type="submit" class="Btn" onclick="openPopup()"><b>Submit</b></button>
+            <div class="popup" id="popup">
+                <img src= "D:\xampp\htdocs\Granite System\Granite system\bckground\tick.png">
+                <h2>Thank You!</h2>
+                <p>Your details has been successfully submitted. Thanks!</p>
+                <button type="button" onclick="closePopup()"><a href="outlier.html">OK</a></button>
+            </div>
+        <script>
+            let popup = document.getElementById("popup");
+            function openPopup(){
+                popup.classList.add("open-popup");
+            }
+            function closePopup(){
+                popup.classList.remove("close-popup");
+            }
+        </script>    
+    </div>
+</body>
+</html>

@@ -1,0 +1,60 @@
+<html> 
+<head>
+<title>Log In</title> 
+	<link rel="stylesheet" href="static/css/style.css">
+	
+</head>
+<body> 
+	<h2 class="h2"><a href="/">GRANITE.</a></h2>
+    <form method="POST" action="/search">
+   <!--<div class="search">
+        <input class="search-box" type="text" name="box" placeholder="Search.">--> 
+        
+    </div>
+    </form>
+
+    </div>
+    
+    <header class="main-header"> 
+            
+        <nav class="nav main-nav">
+            
+           <!--<div class="search-wrapper">
+                <input type="search" id="search" placeholder="Search.">
+            </div>-->
+                <ul >
+                    <li><a href="/tech">TECHNOLOGIES</a></li>
+                    <li><a href="/help">HELP</a></li>
+                    <li><submit class="button-nav"><a href="/signin">PREDICTION</a></button></li>
+                    <li><submit class="button-nav"><a href="/login">LOGIN</a></submit></li>
+                    
+                    
+                </ul>
+        </nav> 
+    </header>
+        
+
+		
+	<form method="POST" action="/loginsubmit">
+
+			<div class="log-in-form">
+				
+				<img src="static/pictures/user-Icon.png">
+
+				<h3><b>Log In Now:</b></h3>
+				<p>{{msg}}</p>
+
+				<h3><b>Username:</b>
+				<input type ="text" class="input-box" placeholder ="Enter username" name="username"></h3>
+			
+				<h3><b>Password:</b> 
+				<input type="password" class="input-box" placeholder ="Enter password" name="password"></h3>
+			
+					
+				<center><button type="submit">Log In</center>
+		
+				<h4 align ="center" style ="color:Black"><a href="/signin">New User</a></h4>
+	</form> 
+</div> 
+</body>    
+</html>

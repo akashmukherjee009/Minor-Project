@@ -1,0 +1,129 @@
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport"
+		content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" href="static/css/portfolio.css">
+</head>
+
+<body>
+	{% for i in fetch %}
+	<div class="full">
+		<div class="left">
+			<div class="image">
+				<img src="static/img/{{i[10]}}"
+					alt="gfg-logo"
+					style="width:100px;height:100px;">
+			</div>
+			<div class="Personal Details :">
+				<h2>Personal Details :</h2>
+			
+                
+                <p><b>Date of Birth:</b>{{i[3]}}</p>
+                <p><b>Email id:</b>{{i[2]}}</p>
+                <p><b>Mobile no:</b>{{i[11]}}</p>
+                <p><b>Gender:</b>{{i[4]}}</p>
+                
+                <p><b>Hobbies:</b>{{i[6]}}</p>
+                <p><b>Nationality:</b>{{i[9]}}</p>
+                
+            </div>
+
+            
+			<div class="Educational Details :">
+				<h2>Educational Details :</h2>
+				<ul>
+					<li><b>Programming Skills:
+						{{i[25]}}</b></li>
+					<li><b>Frontend : {{i[26]}}</b></li>
+					<li><b>Backend :{{i[27]}}</b></li>
+				</ul>
+			</div>
+			<div class="Subjects of Interest:">
+				<h2>Subjects of Interest:</h2>
+				<ul>
+					<li>{{i[28]}}</li>
+					
+				</ul>
+			</div>
+			<div class="Extra-Curricular Activities:">
+				<h3>Extra-Curricular Activities:</h3>
+				<ul>
+					{{i[32]}}
+					
+				</ul>
+			</div>
+		</div>
+		<div class="right">
+			<div class="name">
+				<h1>{{i[1]}}</h1>
+			</div>
+			<div class="title">
+				
+
+<p><h4>{{i[5]}}</h4></p>
+
+
+
+			</div>
+			<div class="Career Objectives:">
+				<h2>Career Objectives</h2>
+				
+
+<p>{{i[29]}}
+				</p>
+			</div>
+			<div class="Experience">
+				<h2>Experience</h2>
+				<h3>{{i[8]}}</h3>
+				
+
+<p>{{i[31]}}</p>
+
+			<div class="Academic Qualifications :">
+				<h2>Academic Qualifications :</h2>
+				<table border=2>
+                    <tr>
+                        <th width=200 rowspan=1>School/college</th>
+						
+                        <th width=200 rowspan=1>Year of Passing</th>
+                        <th width=200 rowspan=1>Marks Secured</th>	
+                    </tr>
+                    <tr>
+                        <td>{{i[13]}}</td>
+						<td>{{i[14]}}</td>
+						<td>{{i[15]}}</td>
+                    </tr>
+					<tr>
+                        <td>{{i[16]}}</td>
+						<td>{{i[17]}}</td>
+						<td>{{i[18]}}</td>
+                    </tr>
+					<tr>
+                        <td>{{i[19]}}</td>
+						<td>{{i[20]}}</td>
+						<td>{{i[21]}}</td>
+                    </tr>
+					<tr>
+                        <td>{{i[22]}}</td>
+						<td>{{i[23]}}</td>
+						<td>{{i[24]}}</td>
+                    </tr>
+                </table>
+			</div>
+			<div class="project">
+				<ul>
+					<li>
+						<h2>Project</h2>
+<p>{{i[7]}}</p>
+					</li>
+				</ul>
+			</div>
+		</div>
+	</div>
+	{% endfor %}
+</body>
+
+</html>
